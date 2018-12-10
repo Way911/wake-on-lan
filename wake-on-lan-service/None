@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/Dec/2018:16:00:11 +0800] "GET / HTTP/1.1" 200 379 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:12 +0800] "GET / HTTP/1.1" 200 379 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:14 +0800] "POST /bootup HTTP/1.1" 302 209 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:14 +0800] "GET / HTTP/1.1" 200 382 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:15 +0800] "POST /bootup HTTP/1.1" 302 209 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:15 +0800] "GET / HTTP/1.1" 200 382 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:16 +0800] "POST /bootup HTTP/1.1" 302 209 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
+127.0.0.1 - - [10/Dec/2018:16:00:16 +0800] "GET / HTTP/1.1" 200 382 "http://localhost:5000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.80 Safari/537.36"
