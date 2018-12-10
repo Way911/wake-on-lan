@@ -130,3 +130,5 @@ venv.bak/
 .project
 .pydevproject
 .vscode/
+
+*.pid
